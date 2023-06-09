@@ -1,1 +1,3 @@
-# Parallax-Scrolling-Website-Animated-Website
+# Preview
+
+![](https://github.com/developer-venish/Parallax-Scrolling-Website-Animated-Website/blob/main/demo.gif)
